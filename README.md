@@ -1,3 +1,3 @@
 # ICS3U-Assignment-3-Python
 
-[![GitHub's Super Linter](https://github.com/ICS3U-Assignment-3-Python/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-Assignment-3-Python/actions)
+[![GitHub's Super Linter](https://github.com/trent-hodgins-01/ICS3U-Assignment-3-Python/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/trent-hodgins-01/ICS3U-Assignment-3-Python/actions)
